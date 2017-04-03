@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" preserveAspectRatio="xMidYMid">
+    <path id="logo" d="M 9,12 A 10 10 0 0 1 14,14 L 9,4 L 6,12 A 4 4 0 0 0 10,18 A 8 8 0 1 0 4,16" stroke-width="1.3" stroke="url(#grad1)" fill="#3e3e3e">
+    </path>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="grad1">
+            <stop stop-color="#e6c473" offset="7%"> </stop>
+            <stop stop-color="black" offset="40%"> </stop>
+            <stop stop-color="black" offset="70%"> </stop>
+            <stop stop-color="#e6c473" offset="93%"> </stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="grad2">
+            <stop stop-color="red" offset="7%"> </stop>
+            <stop stop-color="black" offset="40%"> </stop>
+            <stop stop-color="black" offset="70%"> </stop>
+            <stop stop-color="red" offset="93%"> </stop>
+        </linearGradient>
+    </defs>
+</svg>
